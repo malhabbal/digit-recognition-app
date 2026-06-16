@@ -2,4 +2,4 @@ Flask>=2.3
 gunicorn>=21.2
 Pillow>=10.0
 numpy>=1.24
-tensorflow-cpu
+tflite-runtime>=2.14
