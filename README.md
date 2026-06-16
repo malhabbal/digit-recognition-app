@@ -13,3 +13,6 @@ Version Control: Git & GitHub (with branch protection and PR workflow).
 GitHub repo URL: https://github.com/malhabbal/digit-recognition-app
 
 Deployed app URL: https://digit-recognition-app.onrender.com 
+
+## Live Application
+The app is deployed at: [https://github.com/malhabbal/digit-recognition-app]
