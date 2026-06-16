@@ -10,7 +10,11 @@ body {
 }
 .container {
     text-align: center;
+<<<<<<< HEAD
     background: green;
+=======
+    background: white;
+>>>>>>> 3609275dcfe60df0544318e73d616249bdb39002
     padding: 2rem;
     border-radius: 16px;
     box-shadow: 0 8px 24px rgba(0,0,0,0.1);
