@@ -14,3 +14,5 @@ GitHub repo URL: https://github.com/malhabbal/digit-recognition-app
 
 ## Live Application
 The app is deployed on Render at: https://digit-recognition-app-6aj3.onrender.com/
+
+Last update: 17/06/2026
