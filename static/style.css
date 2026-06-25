@@ -36,7 +36,7 @@ canvas {
     margin: 1rem 0;
 }
 button {
-    background: #1ce8de;
+    background: #26e622;
     color: white;
     border: none;
     padding: 10px 24px;
@@ -47,7 +47,7 @@ button {
     transition: background 0.2s;
 }
 button:hover {
-    background: #0c616f;
+    background: #399e43;
 }
 #result {
     font-size: 1.3rem;
