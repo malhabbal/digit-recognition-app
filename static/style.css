@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #cacbcd;
+    background: #f0f4f8;
     margin: 0;
 }
 .container {
@@ -23,7 +23,7 @@ body {
 }
 .canvas-container {
     margin: 1rem auto;
-    border: 2px solid #c0c0c0;
+    border: 2px solid #ccc;
     display: inline-block;
     border-radius: 8px;
     overflow: hidden;
@@ -36,21 +36,21 @@ canvas {
     margin: 1rem 0;
 }
 button {
-    background: #26e622;
+    background: #4a90e2;
     color: white;
     border: none;
     padding: 10px 24px;
     margin: 0 8px;
     font-size: 1rem;
-    border-radius: 7px;
+    border-radius: 6px;
     cursor: pointer;
     transition: background 0.2s;
 }
 button:hover {
-    background: #399e43;
+    background: #357abd;
 }
 #result {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: bold;
     color: #333;
     margin-top: 1rem;
